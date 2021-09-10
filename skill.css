@@ -1,0 +1,36 @@
+h1{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+a{
+    color:black;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+}
+a:visited{
+    color:black;
+
+}
+li{
+    list-style-type:lower-greek;
+}
+#skill12box{
+    width:100%;
+    display: flex;
+    justify-content:center ;
+}
+#skill34box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+#skillbox{
+    
+}
+#tech1{
+
+}
